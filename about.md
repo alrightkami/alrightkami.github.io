@@ -8,4 +8,4 @@ Graduated Data Scientist, skilled in Machine Learning and Deep Learning techniqu
 
 ### Contact me
 
-[email@domain.com](mailto:sultkami@gmail.com)
+[sultkami@gmail.com](mailto:sultkami@gmail.com)
